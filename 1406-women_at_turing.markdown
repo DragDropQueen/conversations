@@ -18,12 +18,19 @@
 
 #### Early in Class
 
+* What training programs/options did you consider or try before our program?
 * Did you have any experience before class started? Did you feel intimidated?
 * How did the character of the group evolve in the first days?
 * What felt uncomfortable or comfortable about a majority-male environment?
 * Did you take any purposeful steps to create an image with your peers?
 
 #### Mid-Class
+
+* How was the pace of the class and workload?
+* When did you feel most overwhelmed? Ever feel lost?
+* What supports were most useful to you during the course?
+* What strategies did you use to build community with your teams / peers?
+* What subjects did you struggle with the most? Which were the most rewarding?
 
 #### Results
 
