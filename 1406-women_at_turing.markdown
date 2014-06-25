@@ -32,9 +32,17 @@
 * What strategies did you use to build community with your teams / peers?
 * What subjects did you struggle with the most? Which were the most rewarding?
 
-#### Results
+#### Hiring Process & Results
 
-#### Hiring Process
+* What were you looking for in a job after the program?
+* Were you happy with the portfolio you built during the class? What were the
+strongest pieces?
+* How many places did you apply? Interview?
+* Can you talk about some of the interview processes you went through?
+* What was the best and what was the worst?
+* Did anything about the job hunt or interview processes surprise you?
+* Did you get turned down from any positions? Any idea why?
+* How happy were you with the job you accepted?
 
 #### In Your Job
 
