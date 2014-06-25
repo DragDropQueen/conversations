@@ -30,3 +30,13 @@
 #### Hiring Process
 
 #### In Your Job
+
+* Have you felt any extra support or scrutiny on your team? Do you attribute that
+to being a junior developer, woman, or both?
+* Have you felt accepted by the wider development community? Have you attended or
+spoken at any conferences or meetups?
+* How is your job matching up with the expectations you had before the class?
+* Do you think you'll be at your current company for two years? Five years?
+* Will you stay in a developer role for the long haul?
+
+#### Tips & Misc
